@@ -1,0 +1,15 @@
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.ApiGateway\bin\Release\netcoreapp2.0\Manulife.DNC.MSAD.ApiGateway.deps.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.ApiGateway\bin\Release\netcoreapp2.0\Manulife.DNC.MSAD.ApiGateway.runtimeconfig.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.ApiGateway\bin\Release\netcoreapp2.0\Manulife.DNC.MSAD.ApiGateway.runtimeconfig.dev.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.ApiGateway\bin\Release\netcoreapp2.0\Manulife.DNC.MSAD.ApiGateway.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.ApiGateway\bin\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.ApiGateway\bin\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.ApiGateway\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.ApiGateway.csprojAssemblyReference.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.ApiGateway\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.ApiGateway.csproj.CoreCompileInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.ApiGateway\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.ApiGateway.AssemblyInfoInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.ApiGateway\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.ApiGateway.AssemblyInfo.cs
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.ApiGateway\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.ApiGateway.csproj.CopyComplete
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.APIGateway\bin\Release\netcoreapp2.0\configuration.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.APIGateway\bin\Release\netcoreapp2.0\Manulife.DNC.MSAD.APIGateway.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.APIGateway\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.APIGateway.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.APIGateway\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.APIGateway.pdb

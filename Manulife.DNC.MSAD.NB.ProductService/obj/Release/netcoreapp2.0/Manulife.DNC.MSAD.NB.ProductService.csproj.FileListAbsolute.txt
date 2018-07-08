@@ -1,0 +1,14 @@
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.ProductService\bin\Release\netcoreapp2.0\Manulife.DNC.MSAD.NB.ProductService.deps.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.ProductService\bin\Release\netcoreapp2.0\Manulife.DNC.MSAD.NB.ProductService.runtimeconfig.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.ProductService\bin\Release\netcoreapp2.0\Manulife.DNC.MSAD.NB.ProductService.runtimeconfig.dev.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.ProductService\bin\Release\netcoreapp2.0\Manulife.DNC.MSAD.NB.ProductService.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.ProductService\bin\Release\netcoreapp2.0\Manulife.DNC.MSAD.NB.ProductService.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.ProductService\bin\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.ProductService\bin\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.ProductService\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.NB.ProductService.csprojAssemblyReference.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.ProductService\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.NB.ProductService.csproj.CoreCompileInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.ProductService\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.NB.ProductService.AssemblyInfoInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.ProductService\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.NB.ProductService.AssemblyInfo.cs
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.ProductService\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.NB.ProductService.csproj.CopyComplete
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.ProductService\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.NB.ProductService.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.NB.ProductService\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.NB.ProductService.pdb

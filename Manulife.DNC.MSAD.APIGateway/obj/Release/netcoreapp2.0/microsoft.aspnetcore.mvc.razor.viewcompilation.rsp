@@ -1,0 +1,5 @@
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.APIGateway
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Manulife.DNC.MSAD.APIGateway
+--content-root=E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.APIGateway
+--file=

@@ -1,0 +1,18 @@
+E:\Projects\DotNet Workspace\Manulife.DNC.MSAD\Manulife.DNC.MSAD.Common\bin\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.deps.json
+E:\Projects\DotNet Workspace\Manulife.DNC.MSAD\Manulife.DNC.MSAD.Common\bin\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.dll
+E:\Projects\DotNet Workspace\Manulife.DNC.MSAD\Manulife.DNC.MSAD.Common\bin\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.pdb
+E:\Projects\DotNet Workspace\Manulife.DNC.MSAD\Manulife.DNC.MSAD.Common\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.csprojAssemblyReference.cache
+E:\Projects\DotNet Workspace\Manulife.DNC.MSAD\Manulife.DNC.MSAD.Common\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.csproj.CoreCompileInputs.cache
+E:\Projects\DotNet Workspace\Manulife.DNC.MSAD\Manulife.DNC.MSAD.Common\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.AssemblyInfoInputs.cache
+E:\Projects\DotNet Workspace\Manulife.DNC.MSAD\Manulife.DNC.MSAD.Common\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.AssemblyInfo.cs
+E:\Projects\DotNet Workspace\Manulife.DNC.MSAD\Manulife.DNC.MSAD.Common\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.dll
+E:\Projects\DotNet Workspace\Manulife.DNC.MSAD\Manulife.DNC.MSAD.Common\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.Common\bin\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.deps.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.Common\bin\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.Common\bin\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.Common\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.csproj.CoreCompileInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.Common\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.AssemblyInfoInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.Common\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.AssemblyInfo.cs
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.Common\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.Common\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.Common\obj\Release\netcoreapp2.0\Manulife.DNC.MSAD.Common.csprojAssemblyReference.cache
