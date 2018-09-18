@@ -1,11 +1,26 @@
 # EDC.IntegratedIdentityService.Demo
 
-<img src="https://images2018.cnblogs.com/blog/381412/201806/381412-20180623100819093-778772638.png" width=200 height=220 />
-<img src="https://images2018.cnblogs.com/blog/381412/201806/381412-20180611222147722-2104263492.png" width=200 height=240 />
+## 关于IdentityServer
+<img src="https://images2018.cnblogs.com/blog/381412/201806/381412-20180623100819093-778772638.png" width="200" height="220" /><br/>
+IdentityServer4（这里只使用版本号为4）是一个基于OpenID Connect和OAuth 2.0的针对ASP.NET Core 2.0的框架。IdentityServer是将规范兼容的OpenID Connect和OAuth 2.0终结点添加到任意ASP.NET Core应用程序的中间件。通常，你构建（或重新使用）包含登录和注销页面的应用程序，IdentityServer中间件会向其添加必要的协议头，以便客户端应用程序可以使用这些标准协议与其对话。<br/>
+<img src="https://upload-images.jianshu.io/upload_images/9128511-e6493b64b1caf887.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/700"/><br/>
+我们可以用IdentityServer来做啥？
+    - 身份验证服务=>官方认证的OpenID Connect实现
+    - 单点登录/注销（SSO）
+    - 访问受控的API=>为不同的客户提供访问API的令牌，比如：MVC网站、SPA、Mobile App等
+    - 等等等......
+IdentityServer4 github : https://github.com/IdentityServer/IdentityServer4
 
-* A simple Authentication&Authorization demo based on IdentityServer4, You can find more details on the below 2 URLs about this demo, it is a Step by Step blog articles.
-* I think you can benefit from it if you are a new starter on IdentityServer. 
+## 关于Ocelot
+<img src="https://images2018.cnblogs.com/blog/381412/201806/381412-20180611222147722-2104263492.png" width="200" height="240" /><br/>
+Ocelot是一个使用.NET Core平台上的一个API Gateway，这个项目的目标是在.NET上面运行微服务架构。Ocelot框架内部集成了IdentityServer（身份验证）和Consul（服务注册发现），还引入了Polly（上一篇博文中提到过）来处理进行故障处理。目前，腾讯和微软是Ocelot在官网贴出来的客户，我想也是因为这两家公司都是巨头，所以要标榜一下，哈哈。<br/>
+Ocelot github : https://github.com/TomPallister/Ocelot
 
-    1.https://www.cnblogs.com/edisonchou/p/identityserver4_foundation_and_quickstart_01.html 
-    2.https://www.cnblogs.com/edisonchou/p/identityserver4_foundation_and_quickstart_02.html
-    3.https://www.cnblogs.com/edisonchou/p/integration_authentication-authorization_service_foundation.html
+## 关于此示例项目
+<img src="https://images2018.cnblogs.com/blog/381412/201807/381412-20180708201510167-1293314802.png" /><br/>
+这里，假设我们有两个客户端（一个Web网站，一个移动App），他们要使用系统，需要通过API网关（这里API网关始终作为客户端的统一入口）先向IdentityService进行Login以进行验证并获取Token，在IdentityService的验证过程中会访问数据库以验证。然后再带上Token通过API网关去访问具体的API Service。这里我们的IdentityService基于IdentityServer4开发，它具有统一登录验证和授权的功能。
+
+## 参考博文
+1.https://www.cnblogs.com/edisonchou/p/identityserver4_foundation_and_quickstart_01.html 
+2.https://www.cnblogs.com/edisonchou/p/identityserver4_foundation_and_quickstart_02.html
+3.https://www.cnblogs.com/edisonchou/p/integration_authentication-authorization_service_foundation.html
