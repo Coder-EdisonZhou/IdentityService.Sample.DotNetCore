@@ -22,7 +22,7 @@ Ocelot github : https://github.com/TomPallister/Ocelot
 <img src="https://images2018.cnblogs.com/blog/381412/201807/381412-20180708201510167-1293314802.png" /><br/>
 这里，假设我们有两个客户端（一个Web网站，一个移动App），他们要使用系统，需要通过API网关（这里API网关始终作为客户端的统一入口）先向IdentityService进行Login以进行验证并获取Token，在IdentityService的验证过程中会访问数据库以验证。然后再带上Token通过API网关去访问具体的API Service。这里我们的IdentityService基于IdentityServer4开发，它具有统一登录验证和授权的功能。
 
-中间件的安装：
+中间件的安装：<br/>
 Ocelot
 ```sh
 PM> Install-Package Ocelot
@@ -33,10 +33,9 @@ PM> Install-Package IdentityServer4
 ```
 
 ## 参考博文
-此系列相关参考：
-1.[基于IdentityServer实现授权与验证服务（Part 1）](https://www.cnblogs.com/edisonchou/p/identityserver4_foundation_and_quickstart_01.html) 
-2.[基于IdentityServer实现授权与验证服务（Part 2）](https://www.cnblogs.com/edisonchou/p/identityserver4_foundation_and_quickstart_02.html)
-3.[基于Ocelot+IdentityServer实现统一验证与授权服务](https://www.cnblogs.com/edisonchou/p/integration_authentication-authorization_service_foundation.html)
-
+此系列相关参考：<br/>
+[基于IdentityServer实现授权与验证服务（Part 1）](https://www.cnblogs.com/edisonchou/p/identityserver4_foundation_and_quickstart_01.html)<br/>
+[基于IdentityServer实现授权与验证服务（Part 2）](https://www.cnblogs.com/edisonchou/p/identityserver4_foundation_and_quickstart_02.html)<br/>
+[基于Ocelot+IdentityServer实现统一验证与授权服务](https://www.cnblogs.com/edisonchou/p/integration_authentication-authorization_service_foundation.html)<br/>
 更多.Net Core相关文章：
 [.NET Core微服务基础学习与实践系列文章目录导航](https://www.cnblogs.com/edisonchou/p/dotnetcore_microservice_foundation_blogs_index.html)
