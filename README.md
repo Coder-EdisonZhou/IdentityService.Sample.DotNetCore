@@ -1,4 +1,4 @@
-# EDC.IntegratedIdentityService.Demo
+# IdentityService.Sample.DotNetCore
 
 ## 关于IdentityServer
 <img src="https://images2018.cnblogs.com/blog/381412/201806/381412-20180623100819093-778772638.png" width="200" height="210" /><br/>
