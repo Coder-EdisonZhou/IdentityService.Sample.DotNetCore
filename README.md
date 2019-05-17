@@ -38,4 +38,4 @@ PM> Install-Package IdentityServer4
 [基于IdentityServer实现授权与验证服务（Part 2）](https://www.cnblogs.com/edisonchou/p/identityserver4_foundation_and_quickstart_02.html)<br/>
 [基于Ocelot+IdentityServer实现统一验证与授权服务](https://www.cnblogs.com/edisonchou/p/integration_authentication-authorization_service_foundation.html)<br/>
 更多.Net Core相关文章：<br/>
-[.NET Core微服务基础学习与实践系列文章目录导航](https://www.cnblogs.com/edisonchou/p/dotnetcore_microservice_foundation_blogs_index.html)
+[.NET Core微服务基础学习与实践系列文章目录导航](https://www.cnblogs.com/edisonchou/p/dotnetcore_microservice_foundation_blogs_index_final.html)
