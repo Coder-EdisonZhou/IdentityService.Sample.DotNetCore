@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Manulife.DNC.MSAD.APIGateway", "Manulife.DNC.MSAD.APIGateway\Manulife.DNC.MSAD.APIGateway.csproj", "{A1B9BEB7-F8D6-4B63-8ECA-EE5F36EE8E29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EDC.DNC.MSAD.APIGateway", "EDC.DNC.MSAD.APIGateway\EDC.DNC.MSAD.APIGateway.csproj", "{A1B9BEB7-F8D6-4B63-8ECA-EE5F36EE8E29}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Manulife.DNC.MSAD.Common", "Manulife.DNC.MSAD.Common\Manulife.DNC.MSAD.Common.csproj", "{8EBF7E0B-D606-4B30-96F3-80009966259D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EDC.DNC.MSAD.Common", "EDC.DNC.MSAD.Common\EDC.DNC.MSAD.Common.csproj", "{8EBF7E0B-D606-4B30-96F3-80009966259D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Manulife.DNC.MSAD.IdentityService", "Manulife.DNC.MSAD.IdentityService\Manulife.DNC.MSAD.IdentityService.csproj", "{39EABE3C-29DD-40E2-87EC-FEA00FA70114}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EDC.DNC.MSAD.IdentityService", "EDC.DNC.MSAD.IdentityService\EDC.DNC.MSAD.IdentityService.csproj", "{39EABE3C-29DD-40E2-87EC-FEA00FA70114}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Manulife.DNC.MSAD.Messages", "Manulife.DNC.MSAD.Messages\Manulife.DNC.MSAD.Messages.csproj", "{4AD4AC37-B558-4FB3-9D34-1CC1788FED92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EDC.DNC.MSAD.Messages", "EDC.DNC.MSAD.Messages\EDC.DNC.MSAD.Messages.csproj", "{4AD4AC37-B558-4FB3-9D34-1CC1788FED92}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Manulife.DNC.MSAD.NB.ClientService", "Manulife.DNC.MSAD.NB.ClientService\Manulife.DNC.MSAD.NB.ClientService.csproj", "{35109CC3-B7B4-4BD6-B98B-220241492025}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EDC.DNC.MSAD.NB.ClientService", "EDC.DNC.MSAD.NB.ClientService\EDC.DNC.MSAD.NB.ClientService.csproj", "{35109CC3-B7B4-4BD6-B98B-220241492025}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Manulife.DNC.MSAD.NB.ProductService", "Manulife.DNC.MSAD.NB.ProductService\Manulife.DNC.MSAD.NB.ProductService.csproj", "{98976431-4E57-4CF4-B5ED-028437918246}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EDC.DNC.MSAD.NB.ProductService", "EDC.DNC.MSAD.NB.ProductService\EDC.DNC.MSAD.NB.ProductService.csproj", "{98976431-4E57-4CF4-B5ED-028437918246}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Manulife.DNC.MSAD.Web", "Manulife.DNC.MSAD.Web\Manulife.DNC.MSAD.Web.csproj", "{4A87370D-B7C7-4545-9CF7-555422F14E95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EDC.DNC.MSAD.Web", "EDC.DNC.MSAD.Web\EDC.DNC.MSAD.Web.csproj", "{4A87370D-B7C7-4545-9CF7-555422F14E95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
